@@ -16,4 +16,4 @@ I'm a fifth year Economics PhD student at MIT in 2023. Previously, I earned a M.
 You can contact me at [camolina@mit.edu](mailto:camolina@mit.edu).
 <br>
 <br>
-You can download my CV [here](/files/Blanco_CV.pdf).
+You can download my CV [here](/files/cv.pdf).
