@@ -30,7 +30,7 @@ author_profile: true
 <br>
 *Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*  
 <br>
-<sub>[Draft coming soon] </sub>
+<sub>[Draft coming soon]</sub> 
 <br>
 <br>
 *Voter Support for Democratic Institutions under Authoritarianism* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Ceren Baysan](https://sites.google.com/site/cerenbaysan/home) and [Cevat Giray Aksoy](https://cevatgirayaksoy.com/))
