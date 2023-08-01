@@ -9,7 +9,9 @@ author_profile: true
 **Work in Progress**
 ------
 
-*Social Influence and News Consumption* (with [Alex Moehring](https://sites.google.com/view/alexmoehring)) [Draft coming soon] <br>
+*Social Influence and News Consumption* (with [Alex Moehring](https://sites.google.com/view/alexmoehring)) <br>
+[Draft coming soon] 
+<br>
 <br>
 *Facebook Causes Protests* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/)) 
 <br>
