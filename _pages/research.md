@@ -28,11 +28,15 @@ author_profile: true
 \[[Working Paper](../files/FergussonHarkerMolinaYamin2023.pdf)\] 
 <br>
 <br>
-*Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*  [Draft coming soon] 
+*Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*  
 <br>
-<sub> [Draft coming soon] </sub>
+[Draft coming soon] 
 <br>
-*Voter Support for Democratic Institutions under Authoritarianism* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Ceren Baysan](https://sites.google.com/site/cerenbaysan/home) and [Cevat Giray Aksoy](https://cevatgirayaksoy.com/))  [Draft coming soon] 
+<sub> [Draft coming soon 2] </sub>
+<br>
+*Voter Support for Democratic Institutions under Authoritarianism* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Ceren Baysan](https://sites.google.com/site/cerenbaysan/home) and [Cevat Giray Aksoy](https://cevatgirayaksoy.com/))
+<br>
+[Draft coming soon] 
 <br>
 <br>
 
@@ -40,9 +44,15 @@ author_profile: true
 **Publications**
 ------
 
-*Converging to Converge: A Comment*. **NBER Macroeconomics Annual** v. 36, 2022. With [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+*Converging to Converge: A Comment* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu))
 <br>
-*The Weak State Trap*. **Economica** v. 89 Issue 354, 2021 (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]()) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+**NBER Macroeconomics Annual** v. 36, 2022. \[[Paper](../files/AcemogluMolina2022.pdf)\]  
+<br>
+<br>
+*The Weak State Trap* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]()).
+<br>
+**Economica** v. 89 Issue 354, 2021  \[[Paper](../files/AcemogluMolina2022.pdf)\]  
+<br>
 <br>
 *Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia* with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
