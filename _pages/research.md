@@ -45,12 +45,16 @@ author_profile: true
 
 *Converging to Converge: A Comment* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu))
 <br>
-**NBER Macroeconomics Annual** v. 36, 2022. \[[Paper](../files/AcemogluMolina2022.pdf)\]  
+**NBER Macroeconomics Annual v. 36, 2022**.
+<br>
+<sub>\[[Paper](../files/AcemogluMolina2022.pdf)\]</sub>
 <br>
 <br>
 *The Weak State Trap* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]()).
 <br>
-**Economica** v. 89 Issue 354, 2021  \[[Paper](../files/AcemogluMolina2022.pdf)\]  
+**Economica v. 89 Issue 354, 2021**.
+<br>
+<sub>\[[Paper](../files/AcemogluMolina2022.pdf)\]</sub>
 <br>
 <br>
 *Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia* with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
