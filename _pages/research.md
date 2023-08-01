@@ -21,18 +21,11 @@ author_profile: true
 **Publications**
 ------
 
-*Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago*. **Regional Science and Urban Economics** 98, 2023 \[[Link](https://www.nber.org/papers/w28992#:~:text=A\%20Comment,-Daron\%20Acemoglu\%20\%26\%20Carlos&text=Kremer\%2C\%20Willis\%2C\%20and\%20You\%20(,been\%20replaced\%20by\%20modest\%20convergence.)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
-<sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>
-
-
 *Converging to Converge: A Comment*. **NBER Macroeconomics Annual 2022** v. 36. University of Chicago Press, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Link](../files/comment_converging.pdf)\] <br>
+<!--<sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>-->
 
-
-
-<sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>
-
-*The Weak State Trap*. **Economica** v. 89 Issue 354, with [Leopoldo Fergusson]((https://www.leopoldofergusson.com/)) and [James Robinson]((https://harris.uchicago.edu/directory/james-robinson))  \[[Link](https://ideas.repec.org/p/col/000089/018002.html)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
-<sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>
+*The Weak State Trap*. **Economica** v. 89 Issue 354, with [Leopoldo Fergusson]((https://www.leopoldofergusson.com/)) and [James Robinson]((https://harris.uchicago.edu/directory/james-robinson))  \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12399)\] \[[Ungated version](../files/FergussonMolinaRobinson2022.pdf)\] <br>
+<!--<sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>-->
 
 
 <!--
