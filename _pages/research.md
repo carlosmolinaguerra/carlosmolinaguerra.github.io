@@ -18,7 +18,6 @@ author_profile: true
 <br>
 
 
-
 **Publications**
 ------
 
