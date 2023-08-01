@@ -11,10 +11,7 @@ redirect_from:
 1234 
 <br>
 <br>
-I graduated with a PhD in Economics from MIT in 2022. Previously, I earned a M.S. in Economics from the Barcelona School of Economics in 2016 and a B.S. in Economics and Laws from Universitat Pompeu Fabra in 2015. 
-<br>
-<br>
-In summer 2023, I will join the Department of Economics at Rutgers University as an Assistant Professor. 
+I'm a fifth year Economics PhD student at MIT in 2023. Previously, I earned a M.S. in Economics from Universidad de Los Andes in 2017 and a B.S. in Economics from Universidad de Antioquia in 2014. 
 <br>
 <br>
 You can contact me at [camolina@mit.edu](mailto:camolina@mit.edu).

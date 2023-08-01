@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6539-8177"
+  orcid            : #"https://orcid.org/0000-0001-6539-8177"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "_Hector_Blanco"
+  twitter          : "CAndresMolina"
   vine             :
   weibo            :
   xing             :
