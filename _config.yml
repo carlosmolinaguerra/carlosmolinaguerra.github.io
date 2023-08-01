@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hector Blanco"
-  avatar           : "headshot3.jpg"
-  bio              : "Postdoctoral research fellow, NYU Furman Center"
-  location         : "New York City, NY"
+  name             : "Carlos Molina"
+  avatar           : "CarlosMolina20210910.jpeg"
+  bio              : "​P​h.D. Student, Department of Economics, M.I.T."
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ZN1MLIUAAAAJ&hl=en"
-  email            : "hector.blanco@nyu.edu"
+  googlescholar    : # "https://scholar.google.com/citations?user=ZN1MLIUAAAAJ&hl=en"
+  email            : "camolina@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hector-blanco"
+  github           : "carlosmolinaguerra"
   google_plus      :
   keybase          :
   instagram        :
