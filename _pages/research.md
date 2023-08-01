@@ -13,4 +13,8 @@ author_profile: true
 *Facebook Causes Protests*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) \[[IZA Discussion Paper No. 15855](../files/FergussonMolina2019WP.pdf)\]  <br>
 <br>
 <br>
+*(Successful) Democracies Breed Their Own Support*, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Nicolas Ajzenman](https://www.ajzenman.com/), [Cevat Giray Aksoy](https://cevatgirayaksoy.com/) and [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/)  \[[Working Paper](../files/AcemogluAjzenmanAksoyFiszbeinMolina2021.pdf)\]  <br>
+<br>
+<br>
+
  
