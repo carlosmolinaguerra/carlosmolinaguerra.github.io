@@ -18,7 +18,7 @@ author_profile: true
 <sub>\[[Working Paper](../files/FergussonMolina2019WP.pdf)\]</sub> 
 <br>
 <br>
-*(Successful) Democracies Breed Their Own Support* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Nicolas Ajzenman](https://www.ajzenman.com/), [Cevat Giray Aksoy](https://cevatgirayaksoy.com/) and [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/))
+*(Successful) Democracies Breed Their Own Support* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Nicolás Ajzenman](https://www.ajzenman.com/), [Cevat Giray Aksoy](https://cevatgirayaksoy.com/) and [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/))
 <br>
 <sub>\[[Working Paper](../files/AcemogluAjzenmanAksoyFiszbeinMolina2021.pdf)\]</sub> 
 <br>
@@ -57,14 +57,14 @@ author_profile: true
 <sub>\[[Paper](../files/FergussonMolinaRobinson2022.pdf)\]</sub>
 <br>
 <br>
-*Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/))
+*Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riaño](https://www.juanfeliperiano.com/))
 <br>
 **Economia v. 19(2), 2019**.
 <br>
 <sub>\[[Paper](../files/FergussonMolinaRiano2019.pdf)\] </sub> 
 <br>
 <br>
-*I Sell My Vote, and So What? Incidence, Social Bias, and Correlates of Clientelism in Colombia* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/))
+*I Sell My Vote, and So What? Incidence, Social Bias, and Correlates of Clientelism in Colombia* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riaño](https://www.juanfeliperiano.com/))
 <br>
 **Economia v. 19(1), 2018**.
 <br>
