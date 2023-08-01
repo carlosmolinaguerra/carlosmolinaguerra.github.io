@@ -52,12 +52,22 @@ author_profile: true
 <br>
 *The Weak State Trap* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]()).
 <br>
-**Economica v. 89 Issue 354, 2021**.
+**Economica v. 89(354), 2021**.
 <br>
 <sub>\[[Paper](../files/AcemogluMolina2022.pdf)\]</sub>
 <br>
 <br>
-*Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia* with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+*Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/))
 <br>
-*I Sell My Vote, and So What? Incidence, Social Bias, and Correlates of Clientelism in Colombia*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+**Economia v. 19(2), 2019**.
+<br>
+<sub>\[[Paper](../files/AcemogluMolina2022.pdf)\] </sub> 
+<br>
+<br>
+*I Sell My Vote, and So What? Incidence, Social Bias, and Correlates of Clientelism in Colombia* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/))
+<br>
+**Economia v. 19(1), 2018**.
+<br>
+<sub>\[[Paper](../files/AcemogluMolina2022.pdf)\]</sub>  
+<br>
 <br>
