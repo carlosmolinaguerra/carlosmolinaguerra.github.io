@@ -10,33 +10,32 @@ author_profile: true
 ------
 
 *Social Influence and News Consumption* (with [Alex Moehring](https://sites.google.com/view/alexmoehring)) <br>
-[Draft coming soon] 
+<sub>[Draft coming soon]</sub>
 <br>
 <br>
 *Facebook Causes Protests* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/)) 
 <br>
-\[[Working Paper](../files/FergussonMolina2019WP.pdf)\] 
+<sub>\[[Working Paper](../files/FergussonMolina2019WP.pdf)\]</sub> 
 <br>
 <br>
 *(Successful) Democracies Breed Their Own Support* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Nicolas Ajzenman](https://www.ajzenman.com/), [Cevat Giray Aksoy](https://cevatgirayaksoy.com/) and [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/))
 <br>
-\[[Working Paper](../files/AcemogluAjzenmanAksoyFiszbeinMolina2021.pdf)\] 
+<sub>\[[Working Paper](../files/AcemogluAjzenmanAksoyFiszbeinMolina2021.pdf)\]</sub> 
 <br>
 <br>
 *Political Incentives and Corruption Evidence from Ghost Students* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/), [Arturo Harker]() and [Juan Camilo Yamin]())
 <br>
-\[[Working Paper](../files/FergussonHarkerMolinaYamin2023.pdf)\] 
+<sub>\[[Working Paper](../files/FergussonHarkerMolinaYamin2023.pdf)\]</sub> 
 <br>
 <br>
 *Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*  
 <br>
-[Draft coming soon] 
+<sub>[Draft coming soon] </sub> 
 <br>
-<sub> [Draft coming soon 2] </sub>
 <br>
 *Voter Support for Democratic Institutions under Authoritarianism* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Ceren Baysan](https://sites.google.com/site/cerenbaysan/home) and [Cevat Giray Aksoy](https://cevatgirayaksoy.com/))
 <br>
-[Draft coming soon] 
+<sub>[Draft coming soon]</sub> 
 <br>
 <br>
 
