@@ -26,7 +26,11 @@ author_profile: true
 **Publications**
 ------
 
-*Converging to Converge: A Comment*, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+*Converging to Converge: A Comment*, **NBER Macroeconomics Annual 2022** v. 36, 2022. With [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
-*Converging to Converge: A Comment*, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+*The Weak State Trap*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]() \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+<br>
+*Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+<br>
+*I Sell My Vote, and So What? Incidence, Social Bias, and Correlates of Clientelism in Colombia*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
