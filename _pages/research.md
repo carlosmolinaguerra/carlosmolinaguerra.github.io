@@ -28,8 +28,7 @@ author_profile: true
 <sub>\[[Working Paper](../files/FergussonHarkerMolinaYamin2023.pdf)\]</sub> 
 <br>
 <br>
-*Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*  
-<br>
+*Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*
 <sub>[Draft coming soon]</sub> 
 <br>
 <br>
