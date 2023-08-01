@@ -25,7 +25,7 @@ author_profile: true
 <sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>
 
 
-*Converging to Converge: A Comment*. **NBER Macroeconomics Annual 2022** v. 36. University of Chicago Press, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Link](../files/comment_converging.pdf)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
+*Converging to Converge: A Comment*. **NBER Macroeconomics Annual 2022** v. 36. University of Chicago Press, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Link](../files/comment_converging.pdf)\] <br>
 
 
 
