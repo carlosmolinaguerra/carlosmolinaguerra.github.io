@@ -26,11 +26,14 @@ author_profile: true
 \[[Working Paper](../files/FergussonHarkerMolinaYamin2023.pdf)\] 
 <br>
 <br>
-*Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*  [Draft coming soon] <br>
+*Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*  [Draft coming soon] 
 <br>
-*Voter Support for Democratic Institutions under Authoritarianism* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Ceren Baysan](https://sites.google.com/site/cerenbaysan/home) and [Cevat Giray Aksoy](https://cevatgirayaksoy.com/))  [Draft coming soon] <br>
+<sub> [Draft coming soon] </sub>
 <br>
- 
+*Voter Support for Democratic Institutions under Authoritarianism* (with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Ceren Baysan](https://sites.google.com/site/cerenbaysan/home) and [Cevat Giray Aksoy](https://cevatgirayaksoy.com/))  [Draft coming soon] 
+<br>
+<br>
+
 
 **Publications**
 ------
