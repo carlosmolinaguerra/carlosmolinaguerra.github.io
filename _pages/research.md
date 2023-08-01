@@ -30,6 +30,7 @@ author_profile: true
 <br>
 <br>
 *Do Candidates Exert More Effort to Rule Over a Larger Budget? Evidence from Colombia*
+<br>
 <sub>[Draft coming soon]</sub> 
 <br>
 <br>
