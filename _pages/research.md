@@ -20,3 +20,9 @@ author_profile: true
 *Voter Support for Democratic Institutions under Authoritarianism*, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Ceren Baysan](https://sites.google.com/site/cerenbaysan/home) and [Cevat Giray Aksoy](https://cevatgirayaksoy.com/)  [Draft coming soon] <br>
 <br>
  
+
+**Publications**
+------
+
+*Converging to Converge: A Comment*, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+<br>
