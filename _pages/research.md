@@ -28,6 +28,7 @@ author_profile: true
 *Converging to Converge: A Comment*. **NBER Macroeconomics Annual 2022** v. 36. University of Chicago Press, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Link](../files/comment_converging.pdf)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
 
 
+
 <sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>
 
 *The Weak State Trap*. **Economica** v. 89 Issue 354, with [Leopoldo Fergusson]((https://www.leopoldofergusson.com/)) and [James Robinson]((https://harris.uchicago.edu/directory/james-robinson))  \[[Link](https://ideas.repec.org/p/col/000089/018002.html)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
