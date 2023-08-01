@@ -11,7 +11,7 @@ author_profile: true
 
 *Social Influence and News Consumption* (with [Alex Moehring](https://sites.google.com/view/alexmoehring)) [Draft coming soon] <br>
 <br>
-*Facebook Causes Protests*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) \[[Working Paper](../files/FergussonMolina2019WP.pdf)\] <br>
+*Facebook Causes Protests* (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/)) \[[Working Paper](../files/FergussonMolina2019WP.pdf)\] <br>
 <br>
 *(Successful) Democracies Breed Their Own Support*, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu), [Nicolas Ajzenman](https://www.ajzenman.com/), [Cevat Giray Aksoy](https://cevatgirayaksoy.com/) and [Martin Fiszbein](https://sites.google.com/site/martinfiszbein/)  \[[Working Paper](../files/AcemogluAjzenmanAksoyFiszbeinMolina2021.pdf)\] <br>
 <br>
@@ -26,11 +26,11 @@ author_profile: true
 **Publications**
 ------
 
-*Converging to Converge: A Comment*, **NBER Macroeconomics Annual 2022** v. 36, 2022. With [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+*Converging to Converge: A Comment*. **NBER Macroeconomics Annual** v. 36, 2022. With [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
-*The Weak State Trap*. **NBER Macroeconomics Annual 2022** with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]() \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+*The Weak State Trap*. **Economica** v. 89 Issue 354, 2021 (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]()) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
-*Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+*Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia* with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
 *I Sell My Vote, and So What? Incidence, Social Bias, and Correlates of Clientelism in Colombia*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
