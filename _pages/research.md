@@ -4,6 +4,8 @@ permalink: /research/
 author_profile: true
 ---
 {% include base_path %}
+---
+
 **Work in Progress**
 ------
 
@@ -24,5 +26,7 @@ author_profile: true
 **Publications**
 ------
 
+*Converging to Converge: A Comment*, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+<br>
 *Converging to Converge: A Comment*, with [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
