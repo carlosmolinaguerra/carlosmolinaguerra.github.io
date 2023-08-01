@@ -9,7 +9,7 @@ author_profile: true
 **Work in Progress**
 ------
 
-*Social Influence and News Consumption*, with [Alex Moehring](https://sites.google.com/view/alexmoehring) [Draft coming soon] <br>
+*Social Influence and News Consumption* (with [Alex Moehring](https://sites.google.com/view/alexmoehring)) [Draft coming soon] <br>
 <br>
 *Facebook Causes Protests*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) \[[Working Paper](../files/FergussonMolina2019WP.pdf)\] <br>
 <br>
@@ -28,7 +28,7 @@ author_profile: true
 
 *Converging to Converge: A Comment*, **NBER Macroeconomics Annual 2022** v. 36, 2022. With [Daron Acemoglu](https://economics.mit.edu/people/faculty/daron-acemoglu) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
-*The Weak State Trap*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]() \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
+*The Weak State Trap*. **NBER Macroeconomics Annual 2022** with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [James Robinson]() \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
 *Consumers as VAT Evaders: Incidence, Social Bias, and Correlates in Colombia*, with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Felipe Riano](https://www.juanfeliperiano.com/) \[[Paper](../files/AcemogluMolina2022.pdf)\]  <br>
 <br>
