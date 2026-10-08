@@ -3,6 +3,5 @@
 # Both courses can use the same URL or separate URLs.
 # After saving, wait for GitHub Pages to deploy, then test the student links.
 
-# ECON 221: destination pending; fill this before sharing its student link.
-econ221: ""
-econ516: "https://cal.com/carlos-molina-ps2qbq/econ-516-office-hours"
+econ221: "https://cal.com/carlos-molina-ps2qbq/office-hours"
+econ516: "https://cal.com/carlos-molina-ps2qbq/office-hours"
