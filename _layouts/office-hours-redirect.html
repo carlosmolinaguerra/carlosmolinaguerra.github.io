@@ -1,0 +1,36 @@
+---
+layout: null
+---
+{% assign booking_url = site.data.office_hours[page.course] %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="referrer" content="no-referrer">
+  <title>{{ page.title | escape }} | Carlos Molina</title>
+  {% if booking_url and booking_url != empty %}
+  <meta http-equiv="refresh" content="0; url={{ booking_url | escape }}">
+  {% endif %}
+  <style>
+    body { margin: 0; background: #f5f7fa; color: #172033; font: 1.125rem/1.6 system-ui, sans-serif; }
+    main { max-width: 36rem; margin: 12vh auto; padding: 2rem; }
+    h1 { font-size: 2rem; line-height: 1.2; }
+    a { color: #174a97; text-underline-offset: .2em; }
+    a:focus-visible { outline: 3px solid #174a97; outline-offset: 5px; }
+  </style>
+</head>
+<body>
+  <main>
+    <p>Carlos Molina</p>
+    <h1>{{ page.title | escape }}</h1>
+    {% if booking_url and booking_url != empty %}
+    <p>Opening the booking calendar&hellip;</p>
+    <p><a href="{{ booking_url | escape }}">Continue to book office hours</a></p>
+    {% else %}
+    <p>The booking calendar is being updated. Please check Blackboard for office-hours information.</p>
+    {% endif %}
+  </main>
+</body>
+</html>
