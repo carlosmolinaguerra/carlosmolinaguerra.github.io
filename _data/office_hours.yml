@@ -2,6 +2,6 @@
 # Keep the quotation marks and use the full public https:// booking link.
 # Both courses can use the same URL or separate URLs.
 # After saving, wait for GitHub Pages to deploy, then test the student links.
-
-econ221: "https://cal.com/carlos-molina-ps2qbq/office-hours"
-econ516: "https://cal.com/carlos-molina-ps2qbq/office-hours"
+# 2026-10-15: updated after renaming the existing Cal.com meeting URL.
+econ221: "https://cal.com/carlos-molina-ps2qbq/meeting-with-carlos-molina"
+econ516: "https://cal.com/carlos-molina-ps2qbq/meeting-with-carlos-molina"
